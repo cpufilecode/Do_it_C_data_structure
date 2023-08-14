@@ -18,5 +18,8 @@
     <ClCompile Include="judge2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="judge2x.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
