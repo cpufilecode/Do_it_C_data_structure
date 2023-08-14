@@ -8,5 +8,8 @@ int main(void)
 	scanf_s("%d", &n);
 	int sum = 0;
 	int i = 1;
-
+	while (i <= n) {
+		sum += i;
+		i++;
+	}
 }
