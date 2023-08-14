@@ -18,5 +18,8 @@
     <ClCompile Include="sum_for1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="sum_while.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
