@@ -19,7 +19,6 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="judge2.c" />
     <ClCompile Include="judge2x.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
