@@ -12,4 +12,6 @@ int main(void)
 		sum += i;
 		i++;
 	}
+	printf("1부터 %d까지의 총합은 %d입니다.\n", n, sum);
+
 }
