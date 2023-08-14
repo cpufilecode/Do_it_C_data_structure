@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="max3.c">
+    <ClCompile Include="sign.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
