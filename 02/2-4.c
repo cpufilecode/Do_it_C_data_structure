@@ -8,7 +8,7 @@ int main(void)
 	int* a = calloc(na, sizeof(int));
 
 	if (a == NULL)
-		put("메모리 확보에 실패했습니다.");
+		puts("메모리 확보에 실패했습니다.");
 	else {
 		printf("%d개의 정수를 입력하세요. \n", na);
 		for (int i = 0; i < na; i++) {
